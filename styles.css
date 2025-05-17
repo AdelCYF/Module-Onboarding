@@ -1,0 +1,5 @@
+header { background: #f0f0f0; padding: 20px; text-align: center; }
+nav ul { list-style: none; padding: 0; }
+nav ul li { display: inline; margin: 0 10px; }
+main { padding: 20px; }
+footer { background: #333; color: white; padding: 10px; text-align: center; position: fixed; bottom: 0; width: 100%; }
